@@ -69,12 +69,4 @@ The train and test set contains the different attributes related to demographic 
 The evaluation metric for this hackathon would be the macro F1 Score.
 
 
-## Approach
 
-1. Understand the dataset
-2. Fill in missing values
-3. Use label encoder for categorical features
-4. Feature Engineering
-5. Model Selection by trying various models with cross validation
-6. Feature importance
-7. Final Model training
